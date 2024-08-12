@@ -27,9 +27,9 @@ I am attempting to produce the model with the highest recall and the lowest numb
 
 ## Final Model
 
-<img width="326" alt="final model" src="https://github.com/user-attachments/assets/e460fef8-f0e7-4e50-9bc0-71943229c3e1">
-
 <img width="653" alt="final model" src="https://github.com/user-attachments/assets/3a64f072-d041-43bf-8c41-d127733645d9">
+
+![final model cm](https://github.com/user-attachments/assets/89850c77-06be-43eb-91d8-27141dc8217b)
 
 When finding a model to predict high engagement in video game players I saw that the logistic regression model with a intercept was performing best by producing the smallest number of false negatives.  
 
@@ -64,7 +64,11 @@ For additional info, contact Josh Grimes at josh.g.grimes@gmail.com
 
 ## Project Structure
 |-- git ignore
+
 |-- README.md
+
 |-- gb_final_notebook
+
 |-- online_gaming_behavior_data
+
 |-- video game engagement presentation
