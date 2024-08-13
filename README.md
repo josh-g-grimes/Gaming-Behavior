@@ -27,10 +27,9 @@ I am attempting to produce the model with the highest recall and the lowest numb
 
 ## Final Model
 
-<img width="326" alt="final model" src="https://github.com/user-attachments/assets/e460fef8-f0e7-4e50-9bc0-71943229c3e1">
+<img width="653" alt="final model" src="https://github.com/user-attachments/assets/3a64f072-d041-43bf-8c41-d127733645d9">
 
-![final model cm](https://github.com/user-attachments/assets/f6ae9fd8-87fb-4c4a-a1d2-59d84c67af13)
-
+![final model cm](https://github.com/user-attachments/assets/89850c77-06be-43eb-91d8-27141dc8217b)
 
 When finding a model to predict high engagement in video game players I saw that the logistic regression model with a intercept was performing best by producing the smallest number of false negatives.  
 
@@ -43,8 +42,6 @@ When finding a model to predict high engagement in video game players I saw that
 ![predictors](https://github.com/user-attachments/assets/112bd56f-88ff-4523-9e0f-ac50a6fba252)
 
 ![sessionsperweek](https://github.com/user-attachments/assets/5eaefdbc-c878-4731-9049-93b416481884)
-
-![sessionsperweek](https://github.com/user-attachments/assets/69e31879-37e4-4e31-b1fb-04d600c2672b)
 
 ![session duration](https://github.com/user-attachments/assets/729ccc94-d6d6-4adf-b013-c5eda097dc83)
 
@@ -66,3 +63,12 @@ For additional info, contact Josh Grimes at josh.g.grimes@gmail.com
 
 
 ## Project Structure
+|-- git ignore
+
+|-- README.md
+
+|-- gb_final_notebook
+
+|-- online_gaming_behavior_data
+
+|-- video game engagement presentation
